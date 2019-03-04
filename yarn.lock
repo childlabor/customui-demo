@@ -4410,9 +4410,9 @@ mute-stream@0.0.7:
   version "0.0.7"
   resolved "http://registry.npm.taobao.org/mute-stream/download/mute-stream-0.0.7.tgz#3075ce93bc21b8fab43e1bc4da7e8115ed1e7bab"
 
-mycustomui@^0.3.6:
-  version "0.3.6"
-  resolved "http://registry.npm.taobao.org/mycustomui/download/mycustomui-0.3.6.tgz#3f20b136ddebb387cdcff16b6503e63175afa7c8"
+mycustomui@^0.3.8:
+  version "0.3.8"
+  resolved "https://registry.npmjs.org/mycustomui/-/mycustomui-0.3.8.tgz#49161248dcde6268c0f0ceda83ecc7ad32d36f60"
 
 nan@^2.9.2:
   version "2.12.1"
